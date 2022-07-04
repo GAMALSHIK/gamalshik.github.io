@@ -951,7 +951,7 @@ button[aria-label="Send a gift"] {
   font-size: 14px;
   font-weight: 600;
   font-family: "Lato";
-  color: var(--darkplus-sec);
+  color: var(--darkplus-bg2);
 }
 .wordmark-2u86JB > svg {
   display: none;
